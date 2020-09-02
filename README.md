@@ -1,6 +1,7 @@
 
 
-<h1> Bem-Vindo ao meu perfil !!!! Eu sou o Walyson 👨‍💻</h1>
+<h2> Bem-Vindo ao meu perfil !!!!</h2>
+<h3> Meu nome é Walyson Felipe 👨‍💻</h3>
 
  <img align="right" alt="GIF" src="https://media.tenor.com/images/d97124348f179b0385907180dc9552ce/tenor.gif"  width="155px"/>
 
