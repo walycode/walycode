@@ -2,6 +2,8 @@
 
 <h1> Bem-Vindo ao meu perfil !!!! Eu sou o Walyson 👨‍💻</h1>
 
+ <img align="right" alt="GIF" src="https://media.tenor.com/images/d97124348f179b0385907180dc9552ce/tenor.gif"  width="215px"/>
+
  <p align="center">
   
   [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/wellersonprenholato/)](https://www.linkedin.com/in/walysonfelipee/)
