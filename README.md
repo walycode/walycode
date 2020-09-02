@@ -3,7 +3,7 @@
 
 ### Hellooo World! Welcome to my profile 👋 <img src="hhttps://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif?raw=true" width="24px">
 
-  <img align="right" alt="GIF" src="https://raw.githubusercontent.com/WellersonPrenholato/WellersonPrenholato/master/gifs/Developer.gif"  width="330px"/>
+  <img align="right" alt="GIF" src="https://media.tenor.com/images/d97124348f179b0385907180dc9552ce/tenor.gif"  width="240px"/>
   My name is Walyson and I'm Back-End Developer 
 
  - 💙 In love with PHP
