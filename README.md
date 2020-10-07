@@ -8,7 +8,7 @@
  <p align="center">
   
   [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/wellersonprenholato/)](https://www.linkedin.com/in/walysonfelipee/)
-  [![Github Badge](https://img.shields.io/badge/-Github-blue?style=flat-square&logo=Github&logoColor=white&link=https://www.github.com/in/walysonfelipe/)](https://www.gihub.com/walysonfelipe/)
+  [![Github Badge](https://img.shields.io/badge/-Github-blue?style=flat-square&logo=Github&logoColor=white&link=https://www.github.com/walycode/)](https://www.gihub.com/walycode/)
 
 </p>
 
@@ -33,7 +33,7 @@
   <summary> <b> 👨🏻‍💻 Open Source Work Stats: </b> <i>(click to expand!)</i> </summary>
   <br />
   <p width="80%">
-    <img width="45%" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=walysonfelipe&layout=compact&hide=html,jupyter%20notebook&theme=dark" alt="walysonfelipe" />
-    <img width="50%" align="right" src="https://github-readme-stats.vercel.app/api?username=walysonfelipe&show_icons=true&theme=dark&count_private=true&hide=contribs,issues&include_all_commits=true" alt="walysonfelipe" />
+    <img width="45%" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=walycode&layout=compact&hide=html,jupyter%20notebook&theme=dark" alt="walysonfelipe" />
+    <img width="50%" align="right" src="https://github-readme-stats.vercel.app/api?username=walycode&show_icons=true&theme=dark&count_private=true&hide=contribs,issues&include_all_commits=true" alt="walysonfelipe" />
   </p>
 </details>
