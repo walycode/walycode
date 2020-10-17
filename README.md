@@ -42,6 +42,6 @@ Estou sempre em busca de novos conhecimentos, para desenvolver softwares que fa√
  <img src="https://img.shields.io/badge/-Gmail-black?style=flat-square&logo=Gmail&logoColor=white&link=mailto:walysonfelipe25@gmail.com">
 </a>
 
-<a href="https://www.github.com/walysonfelipe/">
- <img src="https://img.shields.io/badge/-Discord-black?style=flat-square&logo=Discord&logoColor=white&link=https://www.github.com/walysonfelipe/">
+<a href="https://discord.gg/JPJjSwG">
+ <img src="https://img.shields.io/badge/-Discord-black?style=flat-square&logo=Discord&logoColor=white&link=https://discord.gg/JPJjSwG">
 </a>
