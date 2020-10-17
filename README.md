@@ -3,6 +3,7 @@
 <p>Olá meu nome é Walyson Felipe tenho 18 anos, sou do interior de São Paulo . Sou apaixonado por tecnologia desde de meus 14 anos , Hoje meu foco é a stack JS(Node.js, React.js, Vue.js e Next.js) e também melhorar meu inglês.
 Estou sempre em busca de novos conhecimentos, para desenvolver softwares que façam a diferença na vida das pessoas.
 </p>
+
 <table>
 ​  <tr>
     <th>🚀 Skills:</th>
@@ -27,6 +28,20 @@ Estou sempre em busca de novos conhecimentos, para desenvolver softwares que fa�
   </tr>
 </table>
 
- 
+ <b>Entre em contato comigo: ⤵️</b>
 
+ <a href="https://www.linkedin.com/in/walysonfelipee/">
+ <img src="https://img.shields.io/badge/-LinkedIn-black?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/walysonfelipee/">
+</a>
+  
+<a href="https://www.github.com/walysonfelipe/">
+ <img src="https://img.shields.io/badge/-Github-black?style=flat-square&logo=Github&logoColor=white&link=https://www.github.com/walysonfelipe/">
+</a>
 
+<a href="mailto:walysonfelipe25@gmail.com">
+ <img src="https://img.shields.io/badge/-Gmail-black?style=flat-square&logo=Gmail&logoColor=white&link=mailto:walysonfelipe25@gmail.com">
+</a>
+
+<a href="https://www.github.com/walysonfelipe/">
+ <img src="https://img.shields.io/badge/-Discord-black?style=flat-square&logo=Discord&logoColor=white&link=https://www.github.com/walysonfelipe/">
+</a>
