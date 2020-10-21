@@ -1,6 +1,6 @@
- <img align="right" alt="GIF" src="https://github.com/walysonfelipe/walysonfelipe/raw/master/assets/dev.png?raw=true"  width="500px"/>
+ <img align="right" alt="GIF" src="./assets/dev.png"  width="300px"/>
 
-<p>Olá meu nome é Walyson Felipe tenho 18 anos, sou do interior de São Paulo . Sou apaixonado por tecnologia desde de meus 14 anos , Hoje meu foco é a stack JS(Node.js, React.js, Vue.js e Next.js) e também melhorar meu inglês.
+<p>Olá meu nome é Walyson Felipe tenho 18 anos, sou do Interior de São Paulo . Sou apaixonado por tecnologia desde de meus 14 anos , Hoje estudo Node.js, React.js e Next.js).
 Estou sempre em busca de novos conhecimentos, para desenvolver softwares que façam a diferença na vida das pessoas.
 </p>
 
@@ -42,6 +42,3 @@ Estou sempre em busca de novos conhecimentos, para desenvolver softwares que fa�
  <img src="https://img.shields.io/badge/-Gmail-black?style=flat-square&logo=Gmail&logoColor=white&link=mailto:walysonfelipe25@gmail.com">
 </a>
 
-<a href="https://discord.gg/JPJjSwG">
- <img src="https://img.shields.io/badge/-Discord-black?style=flat-square&logo=Discord&logoColor=white&link=https://discord.gg/JPJjSwG">
-</a>
