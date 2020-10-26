@@ -1,7 +1,7 @@
  <img align="right" alt="GIF" src="./assets/dev.png"  width="300px"/>
 
-<p>Meu nome é Walyson, do Brasil🇧🇷. Trabalho como Back-End Developer desde 2019 e atualmente sou fundador e sócio da <a href="https://kodana.tech/">Kodana<a/>, estou sempre em busca de novos conhecimentos, para desenvolver softwares que façam a diferença na vida das pessoas.</p>
-<p>No meu tempo livre gosto de assistir filmes (🎞️) e series (📺), ouvir música (🎵) e sempre ler uma noticia sobre um novo framework Javascript 😂.
+<p>Meu nome é Walyson sou Brasileiro 🇧🇷. Trabalho como Desenvolvedor Back-End  desde 2019 e atualmente sou fundador e sócio da <a href="https://kodana.tech/">Kodana<a/>, estou sempre em busca de novos conhecimentos, para desenvolver softwares que façam a diferença na vida das pessoas.</p>
+<p>No meu tempo livre gosto de assistir filmes (🎞️) e series (📺) e ouvir música (🎵).
 </p>
 
 <table>
@@ -40,6 +40,10 @@
 
 <a href="mailto:walysonfelipe25@gmail.com">
  <img src="https://img.shields.io/badge/-Gmail-black?style=flat-square&logo=Gmail&logoColor=white&link=mailto:walysonfelipe25@gmail.com">
+</a>
+
+<a href="https://open.spotify.com/user/21d7onwiimrwrf77x7x6bddkq">
+ <img src="https://img.shields.io/badge/-Spotify-black?style=flat-square&logo=Spotify&logoColor=white&link=https://open.spotify.com/user/21d7onwiimrwrf77x7x6bddkq">
 </a>
 
 [![walysonfelipe's github stats](https://github-readme-stats.vercel.app/api?username=walysonfelipe&count_private=true)](https://github.com/walysonfelipe)
