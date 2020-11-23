@@ -1,12 +1,13 @@
  <img align="right" alt="GIF" src="./assets/dev.png"  width="300px"/>
 
-<p>Meu nome é Walyson sou Brasileiro 🇧🇷. Trabalho como Desenvolvedor Back-End  desde 2019 e atualmente sou fundador e sócio da <a href="https://kodana.tech/">Kodana<a/>, estou sempre em busca de novos conhecimentos, para desenvolver softwares que façam a diferença na vida das pessoas.</p>
-<p>No meu tempo livre gosto de assistir filmes (🎞️) e series (📺) e ouvir música (🎵).
+<p>Meu nome é Walyson Felipe, sou desenvolvedor Fullstack e Designer UX|UI.
+ Estou aprimorando meus conceitos em NodeJS, ReactJS e NextJS.
+ Sempre buscando novos conhecimentos para desenvolver softwares que façam a diferença na vida das pessoas.
 </p>
 
 <table>
 ​  <tr>
-    <th>🚀 Skills:</th>
+    <th>🚀 Habilidades:</th>
     <th><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png"></th>
     <th><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></th>
     <th><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png"></th>
@@ -18,7 +19,7 @@
  </tr>
 
 ​  <tr>
-    <th>💻 Tools:</th>
+    <th>💻 Ferramentas:</th>
     <th><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></th>
     <th><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></th>
     <th><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png"></th>
@@ -42,8 +43,10 @@
  <img src="https://img.shields.io/badge/-Gmail-black?style=flat-square&logo=Gmail&logoColor=white&link=mailto:walysonfelipe25@gmail.com">
 </a>
 
-<a href="https://open.spotify.com/user/21d7onwiimrwrf77x7x6bddkq">
- <img src="https://img.shields.io/badge/-Spotify-black?style=flat-square&logo=Spotify&logoColor=white&link=https://open.spotify.com/user/21d7onwiimrwrf77x7x6bddkq">
-</a>
 
-[![walysonfelipe's github stats](https://github-readme-stats.vercel.app/api?username=walysonfelipe&count_private=true)](https://github.com/walysonfelipe)
+<a href="https://www.github.com/walysonfelipe/"><img src="https://github-readme-stats.vercel.app/api?username=walysonfelipe&count_private=true">
+ </a>
+
+
+<em>"Se você traçar metas absurdamente altas e falhar, seu fracasso será muito melhor que o sucesso de todos" – James Cameron</em>
+
