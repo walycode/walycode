@@ -17,9 +17,7 @@
  
  <img align="right" alt="GIF" src="./assets/dev.png"  width="250px"/>
 
-<p>Meu nome é Walyson Felipe, sou desenvolvedor Fullstack e Designer UX|UI.
- Estou aprimorando meus conceitos em NodeJS, ReactJS e NextJS. 
- Sempre buscando novos conhecimentos para desenvolver softwares que façam a diferença na vida das pessoas. :octocat:
+<p> Eu participei do bootcamp Gostack 13 da Rocketseat🚀, ano que vem irei iniciar o primeiro semestre da graduação em Ciências da Computação na FAM. Sou apaixonado por tecnologia e em adquirir novos conhecimentos para desenvolver softwares que façam a diferença na vida das pessoas. :octocat:
 </p>
 
 <details>
@@ -51,8 +49,14 @@
 
 
 <details>
- <sumary>Entre em contato comigo: ⤵️</sumary>
- <a href="https://www.github.com/walysonfelipe/"><img src="https://github-readme-stats.vercel.app/api?username=walysonfelipe&count_private=true">
+  <summary>Minhas estatísticas  ⤵️</summary>
+
+ <a href="https://www.github.com/walysonfelipe/">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=walysonfelipe" width="230">
+ </a>
+
+ <a href="https://www.github.com/walysonfelipe/">
+ <img src="https://github-readme-stats.vercel.app/api?username=walysonfelipe&count_private=true" width="330">
  </a>
 </details>
 
