@@ -7,17 +7,25 @@
 <a href="mailto:walysonfelipe25@gmail.com">
  <img src="https://img.shields.io/badge/-Gmail-black?style=flat-square&logo=Gmail&logoColor=white&link=mailto:walysonfelipe25@gmail.com">
 </a>
+
+<a href="https://api.whatsapp.com/send/?phone=5514998680507&text=Ol%C3%A1%20Walyson,+te+encontrei+atrav%C3%A9s+do+github&app_absent=0">
+ <img src="https://img.shields.io/badge/-Whatsapp-black?style=flat-square&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send/?phone=5514998680507&text=Ol%C3%A1%20Walyson,+te+encontrei+atrav%C3%A9s+do+github&app_absent=0">
+</a> 
  
 <a href="https://www.github.com/walysonfelipe/">
  <img src="https://img.shields.io/badge/-Github-black?style=flat-square&logo=Github&logoColor=white&link=https://www.github.com/walysonfelipe/">
 </a> 
+
  
  
  
  
  <img align="right" alt="GIF" src="./assets/dev.png"  width="250px"/>
 
-<p> Eu participei do bootcamp Gostack 13 da Rocketseat🚀, ano que vem irei iniciar o primeiro semestre da graduação em Ciências da Computação na FAM. Sou apaixonado por tecnologia e em adquirir novos conhecimentos para desenvolver softwares que façam a diferença na vida das pessoas. :octocat:
+<p> 
+ Fui aluno do Bootcamp Gostack da Rocketseat🚀, sou desenvolvedor fullstack e designer UX|UI. Em 2021 irei iniciar minha graduação em Ciências da Computação na FAM. Desde os 14 anos sou apaixonado por tecnologia, meu primeiro contato com a web foi através do Curso em video em 2016 e desde então venho aprimorando meus conhecimentos.:octocat:
+ <p>No meu tempo livre gosto de assistir filmes (🎞️), series (📺) e ouvir música (🎵).
+</p>
 </p>
 
 <details>
