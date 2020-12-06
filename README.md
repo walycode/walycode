@@ -20,7 +20,7 @@
  
  
  
- <img align="right" alt="GIF" src="https://sdk.bitmoji.com/render/panel/6e5b44a4-9565-4b69-a32b-ac48dfbe64d5-bb7a3fae-8b4a-4b74-ba4e-3c79ee0b73fb-v1.png?transparent=1&palette=1"  width="250px"/>
+ <img align="right" alt="GIF" src="./assets/dev.png"  width="250px"/>
 
 <p> 
  Fui aluno do Bootcamp Gostack da Rocketseat🚀, sou desenvolvedor fullstack e designer UX|UI. Em 2021 irei iniciar minha graduação em Ciências da Computação na FAM. Desde os 14 anos sou apaixonado por tecnologia, meu primeiro contato com a web foi através do Curso em video em 2016 e desde então venho aprimorando meus conhecimentos.:octocat:
