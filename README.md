@@ -16,14 +16,14 @@
  <img src="https://img.shields.io/badge/-Github-black?style=flat-square&logo=Github&logoColor=white&link=https://www.github.com/walysonfelipe/">
 </a> 
 
+
  
  
- 
- 
- <img align="right" alt="GIF" src="./assets/dev.png"  width="250px"/>
+ <img align="right" alt="GIF" src="https://sdk.bitmoji.com/render/panel/021e5ec0-be6f-4e59-9f19-ac1e09086932-bb7a3fae-8b4a-4b74-ba4e-3c79ee0b73fb-v1.png?transparent=1&palette=1"  width="250px"/>
 
 <p> 
- Fui aluno do Bootcamp Gostack da Rocketseat🚀, sou desenvolvedor fullstack e designer UX|UI. Em 2021 irei iniciar minha graduação em Ciências da Computação na FAM. Desde os 14 anos sou apaixonado por tecnologia, meu primeiro contato com a web foi através do Curso em video em 2016 e desde então venho aprimorando meus conhecimentos.:octocat:
+ Meu nome é Walyson Felipe, Tenho 18 anos. Desde os 14 anos sou apaixonado por tecnologia, meu primeiro contato com a web foi através do Curso em video em 2016 e desde então venho aprimorando meus conhecimentos.:octocat:
+<p>Fui aluno do Bootcamp Gostack da Rocketseat🚀, Hoje sou desenvolvedor fullstack e designer UX|UI. </p>
  <p>No meu tempo livre gosto de assistir filmes (🎞️), series (📺) e ouvir música (🎵).
 </p>
 </p>
