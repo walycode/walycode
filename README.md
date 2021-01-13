@@ -23,7 +23,7 @@
 
 <p> 
  Meu nome é Walyson Felipe, Tenho 18 anos. Desde os 14 anos sou apaixonado por tecnologia, meu primeiro contato com a web foi através do Curso em video em 2016 e desde então venho aprimorando meus conhecimentos.:octocat:
-<p>Fui aluno do Bootcamp Gostack da Rocketseat🚀, Hoje sou desenvolvedor fullstack e designer UX|UI. </p>
+<p>Fui aluno do Bootcamp Gostack da Rocketseat🚀, Hoje sou estagiário na @sonnitech desenvolvendo aplicativos mobile em IONIC. </p>
  <p>No meu tempo livre gosto de assistir filmes (🎞️), series (📺) e ouvir música (🎵).
 </p>
 </p>
@@ -40,6 +40,10 @@
     <th><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></th>
     <th><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></th>
     <th><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></th>
+    <th><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></th>
+    <th><img height="20" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS5beLuCYNopGN3hNz_Sr226sasoWhThHH7Ng&usqp=CAU"></th>
+    <th><img height="20" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT18tza4NxRkYm_Yd6vhUZWtwJz_zWhWIiE3Q&usqp=CAU"></th>
+
 
  </tr>
 
