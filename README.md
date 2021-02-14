@@ -19,11 +19,10 @@
 
  
  
- <img align="right" alt="GIF" src="https://sdk.bitmoji.com/render/panel/021e5ec0-be6f-4e59-9f19-ac1e09086932-bb7a3fae-8b4a-4b74-ba4e-3c79ee0b73fb-v1.png?transparent=1&palette=1"  width="250px"/>
+ <img align="right" alt="GIF" src="https://sdk.bitmoji.com/render/panel/45f8c705-f1cb-407e-be9e-5f88e05d9702-f2e8cef8-3c7f-4e34-94a2-3fedfd1b230d-v1.png?transparent=1&palette=1"  width="250px"/>
 
 <p> 
- Meu nome é Walyson Felipe, Tenho 18 anos. Desde os 14 anos sou apaixonado por tecnologia, meu primeiro contato com a web foi através do Curso em video em 2016 e desde então venho aprimorando meus conhecimentos.:octocat:
-<p>Fui aluno do Bootcamp Gostack da Rocketseat🚀, Hoje sou estagiário na @sonnitech desenvolvendo aplicativos mobile em IONIC. </p>
+ Meu nome é <a href="https://www.walyson.me">Walyson Felipe<a>,Tenho 18 anos e programo desde os meus 14 anos , nesses últimos anos realizei alguns projetos como o <a href="https://www.github.com/walysonfelipe/economizetcc">E.conomize</a> e o <a href="https://educa-mais-casadacrianca.com.br/">Educa+ da Casa da Criança de Santa Bárbara D'Oeste</a> com alguns deuses chamados <a href="https://github.com/nickcarva">Nicolas Carvalho</a> e <a href="https://github.com/PedroTodorovski">Pedro Todorosvki</a>. Hoje estou graduando em Ciências da Computação na Faculdade das Americas, sou estagiário na @sonnitech e CTO na <a href="https://github.com/CybergStudio">Cyberg Tech Studio</a>
  <p>No meu tempo livre gosto de assistir filmes (🎞️), series (📺) e ouvir música (🎵).
 </p>
 </p>
