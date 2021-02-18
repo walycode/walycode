@@ -1,10 +1,5 @@
 
  
-
-
-
- 
- 
  <img align="right" alt="GIF" src="https://sdk.bitmoji.com/render/panel/01600935-4f59-4640-a18e-945477c7a385-f2e8cef8-3c7f-4e34-94a2-3fedfd1b230d-v1.png?transparent=1&palette=1"  width="250px"/>
 
 <p> 
@@ -29,6 +24,10 @@
      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     <img height="45" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png">
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+ 
+</p>
+
+<p align="center">
     <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
@@ -41,9 +40,7 @@
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg">
    
-</p>
-
-
+ </p>
 
 <details>
   <summary>Minhas estatísticas  ⤵️</summary>
@@ -76,6 +73,7 @@
  <img src="https://img.shields.io/badge/-Github-black?style=flat-square&logo=Github&logoColor=white&link=https://www.github.com/walysonfelipe/">
 </a> 
 </p>
+
 
 <em>"Se você traçar metas absurdamente altas e falhar, seu fracasso será muito melhor que o sucesso de todos" – James Cameron</em>
 
