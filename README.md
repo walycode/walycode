@@ -1,6 +1,6 @@
 
  
- <img align="right" alt="Walyson Felipe" src="https://sdk.bitmoji.com/render/panel/83ef60ca-e966-427c-a052-23fe8c3dbe76-f2e8cef8-3c7f-4e34-94a2-3fedfd1b230d-v1.png?transparent=1&palette=1"  width="250px"/>
+ <img align="right" alt="Walyson Felipe" src="https://sdk.bitmoji.com/render/panel/0465c53a-92cd-40a9-b676-4bad8faccbca-f2e8cef8-3c7f-4e34-94a2-3fedfd1b230d-v1.png?transparent=1&palette=1"  width="250px"/>
 
 <p> 
  Meu nome é <a href="https://www.walyson.me">Walyson Felipe<a>,Tenho 18 anos e programo desde os meus 14 anos , nesses últimos anos realizei alguns projetos como o <a href="https://www.github.com/walysonfelipe/economizetcc">E.conomize</a> e o <a href="https://educa-mais-casadacrianca.com.br/">Educa+ da Casa da Criança de Santa Bárbara D'Oeste</a> com alguns deuses chamados <a href="https://github.com/nickcarva">Nicolas Carvalho</a> e <a href="https://github.com/PedroTodorovski">Pedro Todorosvki</a>. Hoje estou graduando em Ciências da Computação na Faculdade das Americas, sou estagiário na @sonnitech e CTO e Desenvolvedor FullStack na <a href="https://www.cosmonific.com"> Cosmonific</a>
