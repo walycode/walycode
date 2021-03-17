@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://github.com/walysonfelipe/walysonfelipe/blob/master/assets/teste.png?raw=true" alt="eu">
+<img src="https://github.com/walysonfelipe/walysonfelipe/blob/master/teste.png?raw=true" alt="eu">
 </p>
 
 
