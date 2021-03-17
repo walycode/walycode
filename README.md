@@ -1,3 +1,7 @@
+<p align="center">
+<img src="https://github.com/walysonfelipe/walysonfelipe/blob/master/assets/teste.png?raw=true" alt="eu">
+</p>
+
 
 ## Encontre-me na web 🌎: <a href="https://walyson.me"><img align="left" width="150" height="150" src="https://i.picasion.com/pic90/4c133ac9a0e3201bf0f87a2183c40a78.gif"></a>
 - Fullstack Engineer na  <a href="https://www.cosmonific.com"> Cosmonific</a>
